@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sourya Bhattacharyya (@souryacs)
-- 👀 I’m interested in Computational Method development in Bioinformatics and Epigenomics
-- 🌱 I’m currently learning Deep learning techniques
-- 💞️ I’m looking to collaborate on Epigenomics (chromatin structure, gene regulation) and bioinformatics related problems
+- 👀 I’m an instructor at La Jolla Institute for Immunology
+- My research focusses on computational epigenomics, 3D chromatin structure, gene regulation, and machine learning
 - 📫 How to reach me ... email me at sourya.bhatta@gmail.com
 
 <!---
